@@ -1,0 +1,11 @@
+{
+  "name": "Remix Spectral Town Hall",
+  "description": "Interactive spatial projection mapping installation for historic town hall facades featuring XPBD hollow cloth drapery, projector calibration, audio reactivity, and GLSL ectoplasm shaders.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
